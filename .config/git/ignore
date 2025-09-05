@@ -12,3 +12,5 @@ build/
 
 # Practice files (Some temporary tools and validation ideas)
 practice*/
+
+**/.claude/settings.local.json
