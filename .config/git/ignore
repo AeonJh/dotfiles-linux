@@ -14,3 +14,6 @@ build/
 practice*/
 
 **/.claude/settings.local.json
+
+.python-version
+compile_commands.json
