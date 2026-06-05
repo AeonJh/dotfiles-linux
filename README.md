@@ -17,7 +17,7 @@ Source root is `home/` via `.chezmoiroot`.
 - `chezmoi`
 - `git`
 - `age` identity at `~/.config/chezmoi/age.txt`
-- optional tools used by managed configs: `zsh`, `nvim`, `tmux`, `jq`, `curl`
+- optional tools used by managed configs: `zsh`, `nvim`, `tmux`, `awk`, `jq`, `curl`
 
 ## Bootstrap new machine
 
